@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/index.html
 title: Publications
 pubs:
-  - author: "Hanlin Cai, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong"
+  - author: "Ducheng Jin, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong"
     title: "Deep Residual Neural Network for Efficient Traffic Sign Detection"
     url: "https://caihanlin.com/mypaper/202302ICAROB.pdf"
     keywords: "RNN"
@@ -12,7 +12,7 @@ pubs:
     address: "Oita, Japan"
     booktitle: "28th International Conference on Artificial Life and Robotics ([ICAROB])"
 
-  - author: "Hanlin Cai, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong"
+  - author: "Ducheng Jin, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong"
     title: "An IoT Garbage Monitoring System for Effective Garbage Management"
     url: "https://caihanlin.com/mypaper/202208cenim.pdf"
     slides: "https://caihanlin.com/mypaper/slides/2022-CENIM-Pre-v2.pdf"
