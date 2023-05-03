@@ -114,7 +114,7 @@ url: https://caihanlin.com
 
 owner: 
   name: Ducheng Jin
-  avatar: hanlin.jpg (根目录下的图片)
+  avatar: Ducheng.jpg (根目录下的图片)
   email: hanlin.cai@ieee.org
   github: GuangLun2000（只需要输入用户名即可）
   linkedin: hanlin-cai-07b53b23b（只需要ID即可）
