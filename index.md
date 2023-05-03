@@ -8,7 +8,7 @@ layout: page
 
 Here is **Ducheng Jin (Servant, 金督程)**.
 
-I am a junior majoring in **Automation** at Fuzhou University (China) and **Robotics & Intelligent Devices** at Maynooth University (Ireland, Combined Degrees). I am extremely fortunate to be advised by [Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1102/3547.htm) and [Chin Hong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong). Here is [my Resume](https://caihanlin.com/file/Resume-HanlinCAI.pdf).
+I am a junior majoring in **Electrical & Computer Engineering** at Harbin Institute of Technology (China). I am extremely fortunate to be advised by [Yushi Chen](http://homepage.hit.edu.cn/chenyushi). Here is [my Resume]().
 
 ## Research Interests
 
