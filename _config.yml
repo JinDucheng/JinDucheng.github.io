@@ -13,17 +13,18 @@ owner:
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   # facebook:
   github: JinDucheng
-  #linkedin:
-  #scholar: https://scholar.google.com/citations?user=
+  # linkedin:
+  # scholar: https://scholar.google.com/citations?user=
   # instagram:
   # lastfm:
   # tumblr:
   # For Google Authorship https://plus.google.com/authorship
   # google_plus:
+  Bilibili: 509702626
 
 # Analytics and webmaster tools stuff goes here
 # https://search.google.com/search-console/ownership
-google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
+# google_verify: ""
 
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 # bing_verify: ""
