@@ -20,4 +20,4 @@ title: Awards
 
 
 
-Lastest Update:4th March 2023 &nbsp; [中文版 (Chinese Version)](https://jinducheng.github.io/awards-zh/)
+Lastest Update:4th May 2023 &nbsp; [中文版 (Chinese Version)](https://jinducheng.github.io/awards-zh/)
