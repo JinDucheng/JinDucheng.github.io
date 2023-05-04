@@ -6,7 +6,7 @@ title: Publications
 
 # Publications
 
-Lastest Update: 5th May 2023&nbsp;  [中文版本 (Chinese Version)](https://jinducheng.github.io/publications-zh/)
+Lastest Update: 4th May 2023&nbsp;  [中文版本 (Chinese Version)](https://jinducheng.github.io/publications-zh/)
 
 ## Working Paper
 
