@@ -81,5 +81,5 @@ include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
 
 
-# Latest update in 2023/05/01 by Ducheng Jin.
+# Latest update in 2023/05/04 by Ducheng Jin.
 # URL: https://jinducheng.github.io/
