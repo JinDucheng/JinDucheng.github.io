@@ -16,7 +16,13 @@ I am a junior majoring in **Electrical & Computer Engineering** at Harbin Instit
 
    Focusing on modeling and application, currently working on the hyperspectral imaging, with future plans to research in other aspects.
 
-2. **Robotics**
+2. **Robotics**:
+
+   Focusing on practical applications of theories. Successful works include a quadcopter, a robotic boat, and a robotic vehicle.
+
+3. **Quantum**:
+
+   Willing to engage in the construction of quantum algorithms and quantum hardware.
 
 ## News and Updates
 
