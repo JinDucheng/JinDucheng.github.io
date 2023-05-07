@@ -24,6 +24,10 @@ I am a junior majoring in **Electrical & Computer Engineering** at Harbin Instit
 
    Willing to engage in the construction of quantum algorithms and quantum hardware.
 
+4. **Information security**:
+
+   Willing to conduct in-depth research on cyber security, security countermeasures, and reserve engineering.
+
 ## News and Updates
 
 - remain to be done
