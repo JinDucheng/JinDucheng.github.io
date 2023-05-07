@@ -12,7 +12,11 @@ I am a junior majoring in **Electrical & Computer Engineering** at Harbin Instit
 
 ## Research Interests
 
-remain to be done
+1. **Computer Vision**: 
+
+   Focusing on modeling and application, currently working on the hyperspectral imaging, with future plans to research in other aspects.
+
+2. **Robotics**
 
 ## News and Updates
 
