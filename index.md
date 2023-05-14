@@ -35,15 +35,3 @@ I am a junior majoring in **Electrical & Computer Engineering** at Harbin Instit
 ## News and Updates
 
 - remain to be done
-
-div{
-
-height:100px;
-
-width:100px;
-
-background-color: aqua;
-
-}
-
-<div title="我是鼠标悬停展示的内容">文字内容</div>
