@@ -28,6 +28,10 @@ I am a junior majoring in **Electrical & Computer Engineering** at Harbin Instit
 
    Willing to conduct in-depth research on cyber security, security countermeasures, and reserve engineering.
 
+## Skills
+
+![](E:\Electronic Engineering\Personal_Website\JinDucheng.github.io-main\src\images\Skills.png)
+
 ## News and Updates
 
 - remain to be done
