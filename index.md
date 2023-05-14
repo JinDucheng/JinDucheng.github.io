@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="src/images/jinducheng.jpg" class="floatpic" width="360" height="480">
+<img src="src/images/jinducheng.jpg" class="floatpic" width="240" height="320">
 
 Here is **Ducheng Jin (Servant, 金督程)**.
 
