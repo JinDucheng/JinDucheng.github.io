@@ -6,20 +6,33 @@ title: Projects
 
 # Research Projects
 
-P.S., click the hyperlink title to access the source.<br>**Intelligent Environment Perception and Collaborative Algorithm-based Naval Cruise Plan**
+P.S., click the hyperlink title to access the source.<br>
 
-**Health Monitoring Wristband for Harbin Normal University High School**
+#### **Development of infrared camera for lunar exploration satellite**
 
-**One-stop Solution for Garbage Recycling**
+#### **Crop pest detection and early warning system**
 
-**Development of a Comprehensive Cultural and Tourism Service App for the Chengdu Museum**
+#### **Contactless Recognition Life - Integrated Solution for Smart City**
 
-**Sky-reaching Eyes on Migratory Birds' Wings - Environmental Monitoring System**
+#### **Eagle-inspired Adaptive Strategy Quadcopter**
 
-**Eagle-inspired Adaptive Strategy Quadcopter**
+#### **Sky-reaching Eyes on Migratory Birds' Wings - Environmental Monitoring System**
 
-**Contactless Recognition Life - Integrated Solution for Smart City**
+#### **Development of a Comprehensive Cultural and Tourism Service App for the Chengdu Museum**
 
-**Development of infrared camera for lunar exploration satellite**
+#### **One-stop Solution for Garbage Recycling**
 
-**Crop pest detection  and early warning system**
+#### **Health Monitoring Wristband for Harbin Normal University High School**
+
+#### **Intelligent Environment Perception and Collaborative Algorithm-based Naval Cruise Plan**
+
+
+
+
+
+
+
+
+
+
+
