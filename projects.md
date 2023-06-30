@@ -10,11 +10,15 @@ P.S., click the hyperlink title to access the source.<br>
 
 #### **Development of infrared camera for lunar exploration satellite**[2023.3-]
 
-[Ongoing]
+<center>
+    [Ongoing]
+</center>
 
 #### **Crop pest detection and early warning system**[2023.1-]
 
-[Ongoing]
+<center>
+    [Ongoing]
+</center>
 
 #### **Contactless Recognition Life - Integrated Solution for Smart City**[2022.12-2023.1]
 
