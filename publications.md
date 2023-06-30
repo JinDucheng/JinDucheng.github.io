@@ -10,12 +10,14 @@ Lastest Update: 4th May 2023
 
 ## Working Paper
 
-- Semi-supervised learning for hyperspectral image classification
+- Semi-supervised learning for hyperspectral image classification (Expected to be completed in September)
 
   - Using Improved-Transformer
 
-    
+    <img src="https://github.com/JinDucheng/JinDucheng.github.io/raw/master/src/images/SST.jpeg">
 
+    <img src="https://github.com/JinDucheng/JinDucheng.github.io/raw/master/src/images/2BT.jpeg">
+  
   - Semi-supervised learning method (maybe softmatch)
 
 ## Under Review
