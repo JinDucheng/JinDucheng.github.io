@@ -20,11 +20,11 @@ title: Awards
 ## Honors
 
 - 2020-2021 Academic Year:
-  - Outstanding Freshman Project of the Year (Top 5%)
+  - Outstanding Freshman Project of the Year (Top 5%) + 4000￥
   - Outstanding student representatives of Harbin Institute of Technology (10/4200)
 
 - 2021-2022 Academic Year:
-  - National Level Innovation and Entrepreneurship Project (Top 1%)
+  - National Level Innovation and Entrepreneurship Project (Top 1%) + 20000￥
 
 
 
