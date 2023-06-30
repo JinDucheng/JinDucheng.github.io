@@ -34,4 +34,4 @@ I am a junior majoring in **Electrical & Computer Engineering** at Harbin Instit
 
 ## News and Updates
 
-- remain to be done
+- **<font color='red'>[Highlight]</font> I am looking for Msc/Phd to start in 2024 Fall. Contact me if you have any leads!**
