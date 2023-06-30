@@ -16,7 +16,7 @@ Ongoing...
 
 Ongoing...
 
-#### **[2022.12-2023.1] Contactless Recognition Life **
+#### [2022.12-2023.1] Contactless Recognition Life
 
 <img src="https://github.com/JinDucheng/JinDucheng.github.io/raw/master/src/images/Contactless.png">
 
