@@ -12,9 +12,13 @@ P.S., click the hyperlink title to access the source.<br>
 
 Ongoing...
 
+<img src="https://github.com/JinDucheng/JinDucheng.github.io/raw/master/src/images/FLIR-camera.jpg">
+
 #### **[2023.1-] Crop pest detection and early warning system**
 
 Ongoing...
+
+<img src="https://github.com/JinDucheng/JinDucheng.github.io/raw/master/src/images/Crop-pest.jpg">
 
 #### [2022.12-2023.1] [Contactless Recognition Life](https://github.com/JinDucheng/JinDucheng.github.io/raw/master/src/file/Contactless%20Recognition%20Life%20-%20Integrated%20Solution%20for%20Smart%20City.7z)
 
