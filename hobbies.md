@@ -6,4 +6,4 @@ title: Hobbies
 
 # Hobbies
 
-remain to be done
+To be finished
