@@ -16,7 +16,7 @@ Ongoing...
 
 Ongoing...
 
-#### **[2022.12-2023.1] Contactless Recognition Life - Integrated Solution for Smart City**
+#### **[2022.12-2023.1] Contactless Recognition Life **
 
 <img src="https://github.com/JinDucheng/JinDucheng.github.io/raw/master/src/images/Contactless.png">
 
@@ -24,7 +24,7 @@ Ongoing...
 
 <img src="https://github.com/JinDucheng/JinDucheng.github.io/raw/master/src/images/Quadcopter.png">
 
-#### **[2022.5-2023.1] Sky-reaching Eyes on Migratory Birds' Wings - Environmental Monitoring System**
+#### **[2022.5-2023.1] Sky-reaching Eyes on Migratory Birds' Wings**
 
 <img src="https://github.com/JinDucheng/JinDucheng.github.io/raw/master/src/images/migratory-bird.png">
 
@@ -32,7 +32,7 @@ Ongoing...
 
 <img src="https://github.com/JinDucheng/JinDucheng.github.io/raw/master/src/images/garbage-bin.png">
 
-#### **[2020.11-2021.7] Intelligent Environment Perception and Collaborative Algorithm-based Naval Cruise Plan**
+#### **[2020.11-2021.7] Intelligent Naval Cruise Plan**
 
 <img src="https://github.com/JinDucheng/JinDucheng.github.io/raw/master/src/images/Cruise.png">
 
