@@ -11,7 +11,7 @@ title: Awards
   - First Prize (1st, Heilongjiang Division) & National Bronze Award,"Internet Plus" Innovation and Entrepreneurship Competition
   - First Prize (Team Leader), Mathematical Modeling Competition, Provincial Level (Top 1% of all 10528 paper)
 - 2021-2022 Academic Year:
-  - Zuguang Cup Second Prize
+  - Zuguang Cup Second Prize (Greatest Competition of HIT)
   - Provincial First Prize & National Third Prize, Embedded Systems Competition
   - Provincial First Prize & National Third Prize, iCAN International Innovation and Entrepreneurship Competition
   - Provincial First Prize, National University IoT Design Competition (Huawei Cup)
@@ -28,4 +28,4 @@ title: Awards
 
 
 
-Lastest Update:4th May 2023 &nbsp; [中文版 (Chinese Version)](https://jinducheng.github.io/awards-zh/)
+Lastest Update:4th May 2023
