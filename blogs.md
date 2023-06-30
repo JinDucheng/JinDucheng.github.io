@@ -6,7 +6,7 @@ title: Blogs
 
 ## My Blogs
 
-- remain to be done
+- To be finished
 
 <br>
 
