@@ -10,8 +10,6 @@ P.S., click the hyperlink title to access the source.<br>
 
 <br>
 
-<br>
-
 ## Ongoing
 
 #### **[2023.3-] Development of infrared camera for lunar exploration satellite**
