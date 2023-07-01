@@ -67,19 +67,3 @@ Ongoing...
 - Added and configured millimeter-wave radar while improving human-computer interaction design
 - Developed an adaptive cruise algorithm to achieve task decomposition and collaborative operation between homogeneous/heterogeneous systems
 
-
-
-- Extracted image features of colors and patterns from museum artifacts.
-- Stored the extracted features in a database and arranged, combined, and innovated aesthetic features within the database, designing a variety of distinctive cultural and creative products.
-- Constructed a WeChat mini program that connects to the backend database.
-
-
-
-- Guiding as a Mentor:
-   - Guided topic selection, conducted regular training sessions, and addressed queries
-   - Established the software and hardware architecture, resolving technical challenges in web development, both frontend and backend, as well as STM32 programming.
-
-- Project Overview:
-   - The wearable IoT device, the wristband, was developed based on STM32, enabling the monitoring of students' health in schools through sensors like temperature, heart rate, blood samples, and IMU.
-   - Leveraging Wi-Fi, the health-fused information, processed through edge computing, was transmitted to the school server. A monitoring terminal was developed using Vue.js.
-
