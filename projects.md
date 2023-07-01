@@ -12,13 +12,9 @@ P.S., click the hyperlink title to access the source.<br>
 
 #### **[2023.3-] Development of infrared camera for lunar exploration satellite**
 
-Ongoing...
-
 <img src="https://github.com/JinDucheng/JinDucheng.github.io/raw/master/src/images/FLIR-camera.jpg">
 
 #### **[2023.1-] Crop pest detection and early warning system**
-
-Ongoing...
 
 <img src="https://github.com/JinDucheng/JinDucheng.github.io/raw/master/src/images/Crop-pest.jpg">
 
