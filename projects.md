@@ -8,7 +8,9 @@ title: Projects
 
 P.S., click the hyperlink title to access the source.<br>
 
+<br>
 
+<br>
 
 ## Ongoing
 
@@ -26,7 +28,9 @@ P.S., click the hyperlink title to access the source.<br>
 - This project is expected to be completed in **November 2023**.
 - Conducting at Institute of Communication Technology, HIT.
 
-​    
+<br>
+
+<br>
 
 ## Previous
 
