@@ -8,6 +8,8 @@ title: Projects
 
 P.S., click the hyperlink title to access the source.<br>
 
+## Ongoing
+
 #### **[2023.3-] Development of infrared camera for lunar exploration satellite**
 
 Ongoing...
@@ -19,6 +21,8 @@ Ongoing...
 Ongoing...
 
 <img src="https://github.com/JinDucheng/JinDucheng.github.io/raw/master/src/images/Crop-pest.jpg">
+
+## Previous
 
 #### [2022.12-2023.1] [Contactless Recognition Life](https://github.com/JinDucheng/JinDucheng.github.io/raw/master/src/file/Contactless%20Recognition%20Life%20-%20Integrated%20Solution%20for%20Smart%20City.7z)
 
