@@ -16,6 +16,10 @@ P.S., click the hyperlink title to access the source.<br>
 
 <img src="https://github.com/JinDucheng/JinDucheng.github.io/raw/master/src/images/FLIR-camera.jpg">
 
+- My task:
+  - Reading camera buffer data using STM32F4
+  - Developing a satellite-to-ground **communication protocol** for real-time transmission
+  - Performing **multi-frame super-resolution** processing on the received images
 - The satellite is scheduled to launch by the end of **2024**.
 - Conducting at Institute of Satellite Technology, HIT.
 
@@ -23,6 +27,9 @@ P.S., click the hyperlink title to access the source.<br>
 
 <img src="https://github.com/JinDucheng/JinDucheng.github.io/raw/master/src/images/Crop-pest.jpg">
 
+- My task:
+  - Implementing **Crop Pest Classification** based on Improved-ResNet18
+  - Realizing embedded device serial communication
 - This project is expected to be completed in **November 2023**.
 - Conducting at Institute of Communication Technology, HIT.
 
