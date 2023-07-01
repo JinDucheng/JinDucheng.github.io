@@ -14,9 +14,15 @@ P.S., click the hyperlink title to access the source.<br>
 
 <img src="https://github.com/JinDucheng/JinDucheng.github.io/raw/master/src/images/FLIR-camera.jpg">
 
+- The satellite is scheduled to launch by the end of **2024**.
+- Conducting at Institute of Satellite Technology, HIT.
+
 #### **[2023.1-] Crop pest detection and early warning system**
 
 <img src="https://github.com/JinDucheng/JinDucheng.github.io/raw/master/src/images/Crop-pest.jpg">
+
+- This project is expected to be completed in **November 2023**.
+- Conducting at Institute of Communication Technology, HIT.
 
 ## Previous
 
